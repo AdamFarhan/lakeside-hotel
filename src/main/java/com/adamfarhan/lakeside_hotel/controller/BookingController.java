@@ -1,4 +1,4 @@
 package com.adamfarhan.lakeside_hotel.controller;
 
-public class BookedRoomController {
+public class BookingController {
 }

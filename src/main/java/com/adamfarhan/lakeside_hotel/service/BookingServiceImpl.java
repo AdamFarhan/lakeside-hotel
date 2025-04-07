@@ -1,4 +1,4 @@
 package com.adamfarhan.lakeside_hotel.service;
 
-public class BookedRoomServiceImpl {
+public class BookingServiceImpl {
 }
